@@ -1,0 +1,8 @@
+{
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ],
+    "appService.defaultWebAppToDeploy": "/subscriptions/c4b7ee56-bbc7-4664-bf23-a55d20a9086f/resourceGroups/RG-mhdnawras/providers/Microsoft.Web/sites/lab2dotnetexpress",
+    "appService.deploySubpath": "."
+}
